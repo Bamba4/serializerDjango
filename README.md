@@ -1,2 +1,2 @@
-# serializerDjango
+#Django  serializer
 Django serializer
